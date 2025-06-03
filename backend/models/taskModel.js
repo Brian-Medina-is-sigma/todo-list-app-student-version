@@ -4,7 +4,7 @@ const db = require("../db");
 const getTasks = async () => {
   const res = await db.query(
     //correct this SQL query to select all tasks from the database
-    "SELECT everything FROM tasks ORDER BY created_at DESC"
+    "SELECT * FROM tasks ORDER BY created_at DESC"
   );
   return res.rows;
 };
