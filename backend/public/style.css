@@ -1,14 +1,14 @@
 
 body {
-  font-family: Comic sans MS;
-  background: #008000;
+  font-family: "Comic sans MS";
+  background: black;
   padding: 20px;
 }
 
 .container {
   max-width: 500px;
   margin: auto;
-  background: white;
+  background: green;
   padding: 20px;
   border-radius: 8px;
 }
