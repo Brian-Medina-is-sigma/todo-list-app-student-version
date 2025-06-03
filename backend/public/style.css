@@ -25,8 +25,9 @@ li {
   border-radius: 4px;
 }
 img{
-  margin: 0px;
-  width: 500px;
-  length: 500px;
-  image-align: center;
+  image-align: center;ustify-content:center; 
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;    
+}
 }
