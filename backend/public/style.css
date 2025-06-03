@@ -30,9 +30,8 @@ img{
   height: 150px;
   margin: 0 auto;    
 }
-button:hover{
+button{
   background-color: #3e8e41;
-    transform: scale(1.1);
     color: yellow;
 }
 }
