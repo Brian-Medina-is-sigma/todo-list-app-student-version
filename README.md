@@ -1,4 +1,5 @@
-A website to scam people to buy Robux by inserting the amount of money the robux player needs, and click the button to get robux. 
-After the button, rick roll will show up.
-Have fun getting scammed.
-Money doesn't go to me. Hahaha...
+A website for listing your task easier.
+type your task name and description of the task, and press submit to make a list of a bunch of tasks to do.
+Have fun doing those tasks.
+Live site here:
+https://todo-list-app-student-version-j96t.onrender.com/static/
