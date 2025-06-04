@@ -10,11 +10,6 @@ router.get("/", async (req, res) => {
 });
 
 // The server is in URL, which most websites have https on it; using this code from the server, the HTML will respond from it. The code makes URL end points for the user to navigate to a browser.
-const express = require('express');
-const app = express();
-
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
 router.post("/", async (req, res) => {
   //there is a bug in line 15 you need to fix
   console.log(req.body);
